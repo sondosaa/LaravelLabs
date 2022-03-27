@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+label,input{
+    padding: 0.2rem;
+    margin: 1rem;
+}
+h2{
+    text-align: center;
+    margin: 6rem 0rem;
+}
+.con{
+    background-color: rgb(35, 161, 161);
+    width: 40vw;
+    
+    margin: 3rem auto;
+    text-align: center;
+    border-radius: 10px;
+}
